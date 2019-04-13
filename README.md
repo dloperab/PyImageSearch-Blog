@@ -17,3 +17,7 @@
   * Run:
     * Test #1: *> python filter_object_detection.py*
     * Test #2: *> python filter_object_detection.py --confidence 0.6*
+
+---
+
+**Credits to Adrian Rosebrock on <http://www.pyimagesearch.com>**
