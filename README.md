@@ -30,6 +30,32 @@
   * Run:
     * Test #1: > python filter_object_detection.py
     * Test #2: > python filter_object_detection.py --confidence 0.6
+* [Simple object tracking with OpenCV](https://www.pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/)
+  * Code: [object_tracker.py](/2018/23072018_object_tracker/object_tracker.py)
+  * Run: *> python object_tracker.py*
+* [OpenCV Object Tracking](https://www.pyimagesearch.com/2018/07/30/opencv-object-tracking/)
+  * Code: [opencv_object_tracking.py](/2018/30072018_opencv_object_tracking/opencv_object_tracking.py)
+  * Run:
+    * Webcam: *> python opencv_object_tracking.py*
+    * Webcam + csrt tracker: *> python opencv_object_tracking.py --tracker csrt*
+    * Video 1: *> python opencv_object_tracking.py --video "../../extras/videos/dashcam_boston.mp4" --tracker csrt --tracker csrt*
+    * Video 2: *> python opencv_object_tracking.py --video "../../extras/videos/american_pharoah.mp4" --tracker csrt --tracker csrt*
+    * Video 3: *> python opencv_object_tracking.py --video "../../extras/videos/drone.mp4" --tracker csrt --tracker csrt*
+    * Video 4: *> python opencv_object_tracking.py --video "../../extras/videos/nascar_01.mp4" --tracker csrt --tracker csrt*
+    * Video 5: *> python opencv_object_tracking.py --video "../../extras/videos/nascar_02.mp4" --tracker csrt --tracker csrt*
+    * Video 6: *> python opencv_object_tracking.py --video "../../extras/videos/race.mp4" --tracker csrt --tracker csrt*
+* [Tracking multiple objects with OpenCV](https://www.pyimagesearch.com/2018/08/06/tracking-multiple-objects-with-opencv/)
+  * Code: [multi_object_tracking.py](/2018/06082019_multi_object_tracking/multi_object_tracking.py)
+  * Run:
+    * Webcam: *> python multi_object_tracking.py*
+    * Video 1: *> python multi_object_tracking.py --video "../../extras/videos/los_angeles.mp4" --tracker csrt --tracker csrt*
+    * Video 2: *> python multi_object_tracking.py --video "../../extras/videos/nascar_01.mp4" --tracker csrt --tracker csrt*
+    * Video 3: *> python multi_object_tracking.py --video "../../extras/videos/soccer_01.mp4" --tracker csrt --tracker csrt*
+    * Video 4: *> python multi_object_tracking.py --video "../../extras/videos/nascar_02.mp4" --tracker csrt --tracker csrt*
+* [OpenCV People Counter](https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/)
+    * Code: [people_counter.py](/2018/13082018_people_counter/people_counter.py)
+  * Run:
+    * Webcam: *> python people_counter.py*
 
 ---
 
