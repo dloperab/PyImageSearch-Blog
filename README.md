@@ -55,6 +55,8 @@
 * [OpenCV People Counter](https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/)
     * Code: [people_counter.py](/2018/13082018_people_counter/people_counter.py)
   * Run:
+    * Video 1: *> python people_counter.py --input "../../extras/videos/people_counter_01.mp4"*
+    * Video 2: *> python people_counter.py --input "../../extras/videos/people_counter_02.mp4"*
     * Webcam: *> python people_counter.py*
 
 ---
