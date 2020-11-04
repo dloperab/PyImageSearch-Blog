@@ -16,8 +16,8 @@ ap.add_argument("-i", "--input", type=str, help="path to optional input video fi
 args = vars(ap.parse_args())
 
 # init params
-PROTOTXT = "..\..\extras\caffe_models\MobileNetSSD_deploy.prototxt.txt"
-MODEL = "..\..\extras\caffe_models\MobileNetSSD_deploy.caffemodel"
+PROTOTXT = "../../extras/caffe_models/MobileNetSSD_deploy.prototxt.txt"
+MODEL = "../../extras/caffe_models/MobileNetSSD_deploy.caffemodel"
 CONFIDENCE = 0.4
 SKIP_FRAMES = 30
 

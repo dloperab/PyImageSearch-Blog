@@ -1,4 +1,5 @@
 {
     "python.pythonPath": "C:\\Users\\dloperab\\Anaconda3\\envs\\pyimagesearch\\python.exe",
-    "python.jediEnabled": false
+    "python.jediEnabled": false,
+    "python.languageServer": "Microsoft"
 }
